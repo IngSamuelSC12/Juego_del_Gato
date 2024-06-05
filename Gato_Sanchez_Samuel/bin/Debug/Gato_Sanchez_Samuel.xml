@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Gato_Sanchez_Samuel
+</name>
+</assembly>
+<members>
+<member name="T:Gato_Sanchez_Samuel.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Gato_Sanchez_Samuel.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Gato_Sanchez_Samuel.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Gato_Sanchez_Samuel.My.Resources.Resources.cero0">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gato_Sanchez_Samuel.My.Resources.Resources.emotional_piano_sad_background_music_for_videos_5688">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Gato_Sanchez_Samuel.My.Resources.Resources.equis__2_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gato_Sanchez_Samuel.My.Resources.Resources.equis__2_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gato_Sanchez_Samuel.My.Resources.Resources.linea_gris">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gato_Sanchez_Samuel.My.Resources.Resources.linea_gris1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gato_Sanchez_Samuel.My.Resources.Resources.linea_negra">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gato_Sanchez_Samuel.My.Resources.Resources.man_is_he_mega_glbml_22045">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Gato_Sanchez_Samuel.My.Resources.Resources.neonon_109616">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Gato_Sanchez_Samuel.My.Resources.Resources.notify">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Gato_Sanchez_Samuel.My.Resources.Resources.Windows_Critical_Stop">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Gato_Sanchez_Samuel.My.Resources.Resources.yo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
